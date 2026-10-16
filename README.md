@@ -32,3 +32,5 @@ Bu arac, yetkili SS kontrolleri ve sunucu moderasyonu amaciyla kullanilmalidir. 
 ## Gelistirici
 
 **374m**
+dc : zulemayeniden
+github : zulemayeniden
